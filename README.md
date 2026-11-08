@@ -17,13 +17,13 @@ Verify shopping cart and checkout workflows.
 
 3. Modules Tested
 
-1. Home Page
-2. Product Search
-3. Product Details
-4. Registration
-5. Login
-6. Shopping Cart
-7. Checkout
+Home Page
+Product Search
+Product Details
+Registration
+Login
+Shopping Cart
+Checkout
 
 4. Testing Types
 Functional Testing
